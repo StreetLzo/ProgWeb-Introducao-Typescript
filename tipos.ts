@@ -7,7 +7,7 @@ let ativo: boolean = true;
 
 
 //arrays
-let numeros[] = [1,2,3,4,5,] //primeira forma de criar array
+let numeros; [] = [1,2,3,4,5,] //primeira forma de criar array
 let palavras: Array<string> = ['typescript', 'é', 'massa']
 
 //tuplas
